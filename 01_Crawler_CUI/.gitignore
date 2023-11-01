@@ -1,0 +1,10 @@
+__pycache__
+.webcache
+.vscode
+envs
+build
+dist
+
+tmp.log
+app.spec
+setup.py
