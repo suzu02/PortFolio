@@ -1,0 +1,31 @@
+{
+    "cSpell.words": [
+        "borderwidth",
+        "cachecontrol",
+        "chromedriver",
+        "columnspan",
+        "dotenv",
+        "gaierror",
+        "incongnite",
+        "initialdir",
+        "initialfile",
+        "ipady",
+        "jsonschema",
+        "KHTML",
+        "levelname",
+        "lxml",
+        "MEIPASS",
+        "nesw",
+        "openpyxl",
+        "padx",
+        "pady",
+        "textvariable",
+        "useragent",
+        "webcache",
+        "xbar",
+        "xscrollcommand"
+    ],
+    "editor.rulers": [
+        80
+    ]
+}

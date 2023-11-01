@@ -1,0 +1,11 @@
+__pycache__
+.webcache
+envs
+build
+dist
+sample_exe
+
+.env
+tmp.log
+app.spec
+setup.py
