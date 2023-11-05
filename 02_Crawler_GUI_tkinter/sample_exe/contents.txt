@@ -1,0 +1,6 @@
+sample_exe
+ |- images (dir)
+ |- lib (dir)
+ |- app.exe
+ |- python3.dll
+ |- python310.dll
