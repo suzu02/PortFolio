@@ -1,11 +1,11 @@
 __pycache__
 .webcache
+.vscode
 envs
 build
 dist
-sample_exe
+readme_img
 
-.env
 tmp.log
 app.spec
 setup.py
