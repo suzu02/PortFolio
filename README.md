@@ -1,5 +1,4 @@
-# ポートフォリオ - Portfolio -<br>
-<br>
+# ポートフォリオ - Portfolio -
 
 ご覧いただきありがとうございます。  
 本ページでは、これまでに作成したアプリケーションを掲載しております。  
@@ -10,8 +9,8 @@
 ## アプリケーション一覧
 > ### [1. Crawler_CUI](https://github.com/suzu02/PortFolio/tree/main/01_Crawler_CUI#Crawler_CUI)
 > バックグラウンドで、Webスクレイピングを行うアプリケーションです。
-> ### [2. Crawler_GUI](https://github.com/suzu02/PortFolio/tree/main/02_Crawler_GUI#Crawler_GUI)
-> GUIのボタンクリック等により、Webスクレイピングを行うアプリケーションでず。
+> ### [2. Crawler_GUI](https://github.com/suzu02/PortFolio/tree/main/02_Crawler_GUI_tkinter#Crawler_GUI)
+> GUIのボタンクリック等により、Webスクレイピングを行うアプリケーションです。
 
 <br>
 <br>
