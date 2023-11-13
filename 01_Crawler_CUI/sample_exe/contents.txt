@@ -1,5 +1,10 @@
 sample_exe
  |- lib (dir)
+ |- api-ms-win-core-console-l1-2-0.dll
+ |- api-ms-win-core-fibers-l1-1-0.dll
+ |- api-ms-win-eventing-provider-l1-1-0
  |- app.exe
+ |- License.txt
+ |- Notices.txt
  |- python3.dll
  |- python310.dll
