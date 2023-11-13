@@ -13,6 +13,7 @@
 > バックグラウンドで、Webスクレイピングを行うアプリケーションです。
 <br>
 <br>
+
 > ### [2. Crawler_GUI](https://github.com/suzu02/PortFolio/tree/main/02_Crawler_GUI_tkinter#Crawler_GUI)
 > GUIのボタンクリック等により、Webスクレイピングを行うアプリケーションです。
 <br>
